@@ -24,3 +24,4 @@ public class Hash {
         return true; // Example implementation, you need to replace this
     }
 }
+  
